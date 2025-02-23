@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShakyaMuskan
-- 👀 I’m interested in Machine Learning and App Development
-- 🌱 I’m currently learning Flutter and Natural Language Processing
+- 👀 I’m interested in Machine Learning and Backend Development
+- 🌱 I’m currently learning Python Backend Development and Generative AI
 - 📫 How to reach me 
       email- in.muskanshakya@gmail.com
       linkedIn- www.linkedin.com/in/muskanshakya20
